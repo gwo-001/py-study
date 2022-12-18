@@ -3,10 +3,6 @@ import urllib.request
 
 class Url_request_for_get:
 
-    url = '未知url'
-    param = {}
-    header = {}
-
     """
     带了header和参数
     """
